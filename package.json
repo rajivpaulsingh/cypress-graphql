@@ -28,5 +28,8 @@
   "homepage": "https://github.com/rajivpaulsingh/cypress-graphql#readme",
   "devDependencies": {
     "cypress": "^13.1.0"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.3"
   }
 }

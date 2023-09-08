@@ -1,4 +1,4 @@
-<a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" width="64"></a> [![NodeJs Logo](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)](https://nodejs.org/en/about/) [![Docker Logo](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com/) [![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/)
+<a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" width="64"></a> [![NodeJs Logo](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)](https://nodejs.org/en/about/) [![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/)
 
 # QA Automated Tests 
 
@@ -8,6 +8,7 @@ This is the automation repository using the automation tool called [Cypress](htt
 1. [Node](https://nodejs.org/en/)
 1. [Git](https://git-scm.com/)
 1. [Cypress](https://www.cypress.io/)
+1. [Apollo-Client](https://www.apollographql.com/docs/react/)
 
 ## Setup
 1. Clone the repository
