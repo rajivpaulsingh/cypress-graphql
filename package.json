@@ -4,7 +4,11 @@
   "description": "Repo to automate GraphQL APIs using Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "test, run"
+    "test": "./node_modules/.bin/cypress run",
+    "cy:open": "./node_modules/.bin/cypress open",
+    "cy:run": "./node_modules/.bin/cypress run",
+    "cy:run:chrome": "./node_modules/.bin/cypress run --browser chrome",
+    "cy:run:firefox": "./node_modules/.bin/cypress run --browser firefox"
   },
   "repository": {
     "type": "git",
