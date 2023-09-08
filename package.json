@@ -1,0 +1,28 @@
+{
+  "name": "cypress-graphql",
+  "version": "1.0.0",
+  "description": "Repo to automate GraphQL APIs using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test, run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajivpaulsingh/cypress-graphql.git"
+  },
+  "keywords": [
+    "cypress",
+    "graphql",
+    "api",
+    "automation"
+  ],
+  "author": "Rajiv Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajivpaulsingh/cypress-graphql/issues"
+  },
+  "homepage": "https://github.com/rajivpaulsingh/cypress-graphql#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
